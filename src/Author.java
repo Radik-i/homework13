@@ -2,7 +2,7 @@ import java.util.Objects;
 
 public class Author {
     private String name;
-    private String surname;
+    private String  surname;
 
     public Author(String name, String surname) {
         this.name = name;
