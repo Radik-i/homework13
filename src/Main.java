@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) {
+    public static void  main(String[] args) {
 
         Author author1 = new Author("Антон", "Чехов");
         Author author2 = new Author("Лев", "Толстой");
